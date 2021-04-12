@@ -1,7 +1,7 @@
-1
-2
-3
-4
+1 Monitores LCD 20"
+2 Mouses 
+3 Teclados
+4 Avayas
 5
 6
 7
